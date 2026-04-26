@@ -13,7 +13,7 @@ const CONFIG = {
   fechaContador: "2026-12-28T23:59:59",
 
   // --- UBICACIÓN ---
-  textoUbicacion: "19:00hs - Salón Pakitas",
+  textoUbicacion: "Te esperamos para festejar mi primer añito.  19:00hs - Salón Pakitas",
   linkMapa: "https://www.google.com/maps/dir//Bas%C3%ADlica+Nuestra+Se%C3%B1ora+de+Luj%C3%A1n,+San+Mart%C3%ADn+51,+B6700CCU+Luj%C3%A1n,+Provincia+de+Buenos+Aires/@-34.5651096,-59.1323866,15z",
   linkAgendar: "",
 
