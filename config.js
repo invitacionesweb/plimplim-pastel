@@ -18,7 +18,7 @@ const CONFIG = {
   linkAgendar: "",
 
   // --- FORMULARIO ---
-  textoForm: "Sólo faltas vos, Venís?",
+  textoForm: "Tu presencia es lo más importante",
   textoFormSub: "RECORDÁ COMPLETAR UN FORMULARIO POR PERSONA. <br> HACELO ANTES DEL 20 DE NOVIEMBRE.",
   maxInvitados: 5,
   scriptFormUrl: "https://script.google.com/macros/s/AKfycbyhFfvrpBn9OESN_aYp4WB126P5vRIsf-xeOl9iy5ZKQ1gqtRsmr4u7ygAuxxJLxn9_XQ/exec",
